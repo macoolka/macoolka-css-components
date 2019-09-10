@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledButton  StyledButton variant container 1`] = `
+"border-radius: 2px;
+border-width: 0px;
+font-size: 14px;
+letter-spacing: 0.02857;
+padding-left: 16px;
+padding-right: 16px;
+height: 36px;
+min-width: 88px;
+overflow-x: hidden;
+overflow-y: hidden;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+list-style: none;
+-webkit-overflow-scrolling: touch;
+color: rgba(0, 0, 0, 0.87);
+background-color: transparent;
+font-weight: 500;
+font-family: Roboto, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+text-decoration: none;
+line-height: 1.5;
+text-transform: uppercase;
+user-select: none;
+outline: none;
+position: relative;
+cursor: pointer;
+:disabled {
+  color: rgba(0, 0, 0, 0.38);
+  pointer-events: none;
+  cursor: default;
+}
+> * {
+  margin-left: 8px;
+}
+> *:first-child {
+  margin-left: 0px;
+}
+"
+`;
+
+exports[`StyledButton  StyledButton variant outline 1`] = `
+"border-radius: 2px;
+border-width: 0px;
+font-size: 16px;
+letter-spacing: 0.02857;
+padding-left: 24px;
+padding-right: 24px;
+min-width: 112px;
+min-height: 40px;
+overflow-x: hidden;
+overflow-y: hidden;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+list-style: none;
+-webkit-overflow-scrolling: touch;
+color: rgba(0, 0, 0, 0.87);
+background-color: transparent;
+font-weight: 500;
+font-family: Roboto, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+text-decoration: none;
+line-height: 1.5;
+text-transform: uppercase;
+user-select: none;
+outline: none;
+position: relative;
+cursor: pointer;
+:disabled {
+  color: rgba(0, 0, 0, 0.38);
+  pointer-events: none;
+  cursor: default;
+}
+> * {
+  margin-left: 8px;
+}
+> *:first-child {
+  margin-left: 0px;
+}
+"
+`;
+
+exports[`StyledButton  StyledButton variant text 1`] = `
+"border-radius: 2px;
+border-width: 0px;
+font-size: 12px;
+letter-spacing: 0.02857;
+padding-left: 8px;
+padding-right: 8px;
+height: 32px;
+min-width: 64px;
+overflow-x: hidden;
+overflow-y: hidden;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+list-style: none;
+-webkit-overflow-scrolling: touch;
+color: rgba(0, 0, 0, 0.87);
+background-color: transparent;
+font-weight: 500;
+font-family: Roboto, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+text-decoration: none;
+line-height: 1.5;
+text-transform: uppercase;
+user-select: none;
+outline: none;
+position: relative;
+cursor: pointer;
+:disabled {
+  color: rgba(0, 0, 0, 0.38);
+  pointer-events: none;
+  cursor: default;
+}
+> * {
+  margin-left: 8px;
+}
+> *:first-child {
+  margin-left: 0px;
+}
+"
+`;
